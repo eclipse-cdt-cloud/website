@@ -1,5 +1,5 @@
 +++
-title = "Memory and Tracing View"
+title = "Memory debugging and tracing"
 weight = 30
 
 [asset]
