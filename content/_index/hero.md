@@ -17,13 +17,13 @@ subtitle = "CDT.cloud Blueprint - a template for building web-based C/C++ tools"
   width = "600px" # optional - will default to image width
 
 [[buttons]]
-  text = "Features"
-  url = "#features"
+  text = "Try now"
+  url = "/documentation/#examples"
   color = "primary"
 
 [[buttons]]
-  text = "Download"
-  url = "/documentation/#examples"
+  text = "Features"
+  url = "#features"
   color = "primary"
 
 [[buttons]]
