@@ -6,4 +6,4 @@ weight = 30
   icon = "fas fa-memory"
 +++
 
-For memory debugging, CDT.cloud Blueprint integrates the powerful memory inspector provided by Eclipse Theia. It allows you to display the current memory, view registers and compare memory from different regions or even different points in time. It even supports changing the memory on the fly while debugging. Furthermore, CDT.cloud integrates the powerful web version of TraceCompass, the  popular open source tool for analyzing traces.
+For memory debugging, CDT.cloud Blueprint integrates the powerful [memory inspector](https://github.com/eclipse-theia/theia-cpp-extensions/tree/master/packages/cpp-debug) provided by Eclipse Theia. It allows you to display the current memory, view registers and compare memory from different regions or even different points in time. It even supports changing the memory on the fly while debugging. Furthermore, CDT.cloud integrates the powerful [web version of TraceCompass](https://github.com/theia-ide/theia-trace-extension/), the popular open source tool for analyzing traces.
