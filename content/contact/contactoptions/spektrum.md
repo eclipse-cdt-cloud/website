@@ -4,7 +4,7 @@ weight = 10
 
 [asset]
   icon = "far fa-comments"
-  url = "https://github.com/eclipsesource/cdt-cloud/discussions"
+  url = "https://github.com/eclipse-cdt-cloud/cdt-cloud/discussions"
 +++
 
-Get in contact with the team, ask questions and browse the support archive in our [Github Discussions](https://github.com/eclipsesource/cdt-cloud/discussions)
+Get in contact with the team, ask questions and browse the support archive in our [Github Discussions](https://github.com/eclipse-cdt-cloud/cdt-cloud/discussions)
