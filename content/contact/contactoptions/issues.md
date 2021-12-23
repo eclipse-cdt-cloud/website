@@ -7,4 +7,4 @@ weight = 50
   url = ""
 +++
 
-Please use our [GitHub repository](https://github.com/eclipsesource/cdt-cloud) to report features requests and bugs,
+Please use our [GitHub repository](https://github.com/eclipse-cdt-cloud/cdt-cloud) to report features requests and bugs,
