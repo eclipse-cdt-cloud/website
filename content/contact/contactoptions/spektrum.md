@@ -7,4 +7,4 @@ weight = 10
   url = "https://github.com/eclipse-cdt-cloud/cdt-cloud/discussions"
 +++
 
-Get in contact with the team, ask questions and browse the support archive in our [Github Discussions](https://github.com/eclipse-cdt-cloud/cdt-cloud/discussions)
+Get in contact with the team, ask questions, share your ideas and browse the support archive in our [Github Discussions](https://github.com/eclipse-cdt-cloud/cdt-cloud/discussions).

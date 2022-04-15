@@ -13,4 +13,4 @@ menu_title = "Related Projects"
 
 #### CDT.cloud
 
-CDT.cloud blueprint is an initiative of the embedded special interest group as part of the [Eclipse Cloud Developer Working Group](https://ecdtools.eclipse.org/), led by [EclipseSource](https://eclipsesource.com). If there is interest from the community, it will eventually become an Eclipse project.
+CDT.cloud is a project hosted at the [Eclipse Foundation](https://www.eclipse.org/) organized within the embedded special interest group as part of the [Eclipse Cloud Developer Working Group](https://ecdtools.eclipse.org/), led by [EclipseSource](https://eclipsesource.com).
