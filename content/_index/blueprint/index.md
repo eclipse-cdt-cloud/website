@@ -23,8 +23,8 @@ CDT.cloud Blueprint is a template tool for building custom, web-based C/C++ tool
 CDT.cloud Blueprint is in an early alpha state and undergoing active development
 
 * Check out the [development plan](https://github.com/eclipse-cdt-cloud/cdt-cloud-blueprint/milestone/1) for Release 1.0
-* For the current up to date development version of CDT.cloud Blueprint including a Docker based build, see the [Github repository](https://github.com/eclipse-cdt-cloud/cdt-cloud-blueprint)
-* An earlier prerelease of CDT.Cloud Blueprint is available to be [downloaded and installed](https://download.eclipse.org/theia/c/)
+* For the current up to date development version of CDT.cloud Blueprint including a Docker based development build, see the [Github repository](https://github.com/eclipse-cdt-cloud/cdt-cloud-blueprint)
+* Prereleases of CDT.Cloud Blueprint are available to be [downloaded and installed](https://download.eclipse.org/theia/cdt-cloud/)
 
 [Follow us on twitter](https://twitter.com/CdtCloud") to be notified about recent updates to the project. Get in [contact with us](/contact) to learn more or join this initiative
 
