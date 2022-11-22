@@ -16,7 +16,7 @@ concurrency:
 
 env:
   WEBSITE_SOURCES_DIR: sources
-  WEBSITE_CONTENT_REPO: eclipse-cdt-cloud/website-publish
+  WEBSITE_CONTENT_REPO: "eclipse-cdt-cloud/website-publish"
   WEBSITE_CONTENT_DIR: hugo-public-dist
   WEBSITE_CONTENT_REF: main
 
