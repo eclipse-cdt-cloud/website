@@ -18,7 +18,6 @@ env:
   WEBSITE_SOURCES_DIR: sources
   WEBSITE_CONTENT_REPO: eclipse-cdt-cloud/website-publish
   WEBSITE_CONTENT_DIR: hugo-public-dist
-  WEBSITE_CONTENT_REF: main
 
 jobs:
   build:
@@ -30,11 +29,10 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
           path: ${{ env.WEBSITE_SOURCES_DIR }}
-      - name: Checkout website content
+      - name: Checkout content website
         uses: actions/checkout@v3
         with:
           repository: ${{ env.WEBSITE_CONTENT_REPO }}
-          ref: ${{ env.WEBSITE_CONTENT_REF }}
           token: ${{ secrets.GITHUB_TOKEN }}
           path: ${{ env.WEBSITE_CONTENT_DIR }}
 
@@ -87,4 +85,4 @@ jobs:
           git config user.email github-actions@github.com
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ env.WEBSITE_CONTENT_REPO }}
           git commit -am "pub: ${{ github.event.head_commit.message }}"
-          git push origin ${{ env.WEBSITE_CONTENT_REF }}
+          git push origin
