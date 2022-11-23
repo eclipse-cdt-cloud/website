@@ -67,6 +67,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ env.WEBSITE_CONTENT_REPO }}
+          git remote set-url origin https://x-access-token:${{ secrets.GH_ACTION_TOKEN }}@github.com/${{ env.WEBSITE_CONTENT_REPO }}
           git commit -am "pub: ${{ github.event.head_commit.message }}"
           git push origin
