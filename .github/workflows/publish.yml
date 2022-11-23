@@ -65,8 +65,8 @@ jobs:
         if: steps.git-check.outputs.modified == 'true'
         working-directory: ${{ env.WEBSITE_CONTENT_DIR }}
         run: |
-          git config user.name github.event.head_commit.name
-          git config user.email github.event.head_commit.email
+          git config user.name ${{ github.event.head_commit.name }}
+          git config user.email ${{ github.event.head_commit.email }}
           git config -l | grep 'http\..*\.extraheader' | cut -d= -f1 | xargs -L1 git config --unset-all
           git remote set-url origin https://x-access-token:${{ secrets.GH_ACTION_TOKEN }}@github.com/${{ env.WEBSITE_CONTENT_REPO }}
           git commit -am "pub: ${{ github.event.head_commit.message }}"
