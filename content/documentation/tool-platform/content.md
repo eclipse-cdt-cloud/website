@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 20
 
-title = "Eclipse Theia: Development Tool Platform"
+title = "Development Tool Platform"
 
 [sidebar]
   sticky = true
@@ -15,8 +15,19 @@ To meet the specific requirements of your particular tool or IDE, you then exten
   <img src="/images/cdtcloud-screenshot.png" width="85%" style="border-radius: 5px" />
 </p>
 
-As you usually want to have full control over every aspect of your custom tool, [Eclipse Theia™](https://theia-ide.org) is a popular choice for a tool platform in general, and for custom C/C++ development in particular.
-Theia is an extensible and very flexible, vendor neutral open-source IDE platform to develop full-fledged multi-language Cloud & Desktop IDE-like products with state-of-the-art web technologies.
+The two most popular choices for a modern tool platform are [VS Code](https://code.visualstudio.com) and [Eclipse Theia](https://theia-ide.org).
+VS Code is a code editor by Microsoft, which can be extended by using an [extension API](https://code.visualstudio.com/api).
+Theia, on the other hand, is an extensible and very flexible, vendor neutral open-source IDE platform to develop full-fledged multi-language Cloud & Desktop IDE-like products. Theia not only supports VS Code extensions, but also provides an even more [powerful extension mechanism](https://theia-ide.org/docs/extensions) that allows you to take control over every aspect of your tool.
+
+Whether to use one or the other for a specific tool project depends on [various factors](https://eclipsesource.com/de/blogs/2019/12/06/the-eclipse-theia-ide-vs-vs-code).
+In a nutshell, if you rather want to provide an extension to an existing code editor rather than creating an own product, VS Code may be a good choice for your project.
+If you want, however, to provide a white-labeled, tailored product for your customers or your own developers and you need to be able to take control over several aspects of your tool, you might be better served with Eclipse Theia.
+
+As the decision on VS Code vs Eclipse Theia depends on the respective tool project, many of the CDT.cloud components are actually shipped as VS Code extensions.
+This way, they can be used either way, whether you use VS Code or Eclipse Theia.
+
+With custom C/C++ development tools, however, you often need to have full control over every aspect of your custom tool, which makes Theia is a popular choice in this context.
+Thus, we point you to the right resources to get started with Theia below.
 
 ### Getting started with Theia
 

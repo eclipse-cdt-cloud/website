@@ -26,7 +26,16 @@ The purpose of CDT.cloud Blueprint is two-fold:
 The sources including build instructions are available on the [CDT.cloud Blueprint Github repository](https://github.com/eclipse-cdt-cloud/cdt-cloud-blueprint).
 Please follow the instructions on the [Github readme](https://github.com/eclipse-cdt-cloud/cdt-cloud-blueprint/blob/master/README.md) to build and run CDT.cloud Blueprint as a desktop app, browser app, or in Docker.
 
-It includes several C/C++ extensions to provide language support and debug support.
+### Selection of common VS Code extensions
+
+To provide common capabilities for developing C/C++ projects, CDT.cloud blueprint installs several open-source VS Code extensions that are typically useful in the context of C/C++ development.
+This includes the following and more.
+
+* [vscode-clangd](https://github.com/clangd/vscode-clangd): Integration of the C/C++ language server *clangd*
+* [vscode-cmake](https://github.com/microsoft/vscode-cmake-tools): Integration of commands and actions for interacting with CMake-based projects
+* [cdt-gdb-debug](https://github.com/eclipse-cdt-cloud/cdt-gdb-adapter): Flexible and customizable debug adapter for GBD
+* [cdtcloud-clangd-contexts](https://github.com/eclipse-cdt-cloud/clangd-contexts): Management of clangd configuration files in C/C++ projects using contexts
+
 For a complete list of the used Theia extensions and VS Code extensions, please refer to the [application's `package.json`](https://github.com/eclipse-cdt-cloud/cdt-cloud-blueprint/blob/master/applications/electron/package.json).
 
 ### Welcome page
