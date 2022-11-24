@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 10
 
-title = "Overvew"
+title = "Overview"
 
 [sidebar]
   sticky = true
@@ -33,8 +33,8 @@ And that's precisely where CDT.cloud is here to help: it provides a feature-rich
 
 ### How do I get started?
 
-In most of the cases, a great starting point is to selecting a [development tool platform]({{< relref  "tool-platform" >}}) for your custom tool, which you augment with VS Code extensions too add required tool capabilities and then put customizations for your specific environment on top.
-CDT.cloud also provides an example tool named [CDT.cloud blueprint]({{< relref  "blueprint" >}}), which may act as a template and a source of inspiration for your specific tool.
+In most cases, a great starting point is to select a [development tool platform]({{< relref  "tool-platform" >}}) for your custom tool, which you augment with VS Code extensions too add required tool capabilities and then put customizations for your specific environment on top.
+CDT.cloud also provides an example tool named [CDT.cloud Blueprint]({{< relref  "blueprint" >}}), which may act as a template and a source of inspiration for your specific tool.
 
 For more details on those steps, please refer to the table of contents to the left.
 If you need help to get started, [contact us](/contact)!

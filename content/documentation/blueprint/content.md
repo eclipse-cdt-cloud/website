@@ -39,7 +39,7 @@ The welcome page is contributed to the product in the [TheiaBlueprintGettingStar
 
 ### Example project generator
 
-CDT.cloud Blueprint contains an example generator, which allows users to create pre-defined projects based on a project template.
+CDT.cloud Blueprint contains an example generator which allows users to create pre-defined projects based on a project template.
 Projects can either be generated from the welcome page or via the command *Generate CDT.cloud Blueprint Example*.
 Once a project is generated, a defined file -- such as a readme -- of this project is opened for the user.
 The generator is implemented by the Theia extension [`blueprint-example-generator`](https://github.com/eclipse-cdt-cloud/cdt-cloud-blueprint/blob/master/theia-extensions/blueprint-example-generator).

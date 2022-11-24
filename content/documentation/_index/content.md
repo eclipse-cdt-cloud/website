@@ -14,7 +14,7 @@ To learn more about building a custom tool with CDT.cloud, involved platforms, c
 ➡️ A great starting point is the [Overview]({{< relref "overview" >}}) section.
 
 The source code of the CDT.cloud components is available on [GitHub](https://github.com/eclipse-cdt-cloud/cdt-cloud).
-With [CDT.cloud blueprint]({{< relref  "/#blueprint" >}}), there is also an example tool that demonstrates a custom C/C++ tool based on CDT.cloud.
+With [CDT.cloud Blueprint]({{< relref  "/#blueprint" >}}), there is also an example tool that demonstrates a custom C/C++ tool based on CDT.cloud.
 Also check out the [additional external articles and videos about CDT.cloud]({{< relref  "additionals" >}}).
 
 We are continuously working on improving this documentation. If you feel something is missing, please file an issue and open a PR at the [website repository](https://github.com/eclipse-cdt-cloud/website).
