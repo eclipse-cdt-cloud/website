@@ -33,7 +33,9 @@ And that's precisely where CDT.cloud is here to help: it provides a feature-rich
 
 ### How do I get started?
 
-In most cases, a great starting point is to select a [development tool platform]({{< relref  "tool-platform" >}}) for your custom tool, which you augment with VS Code extensions too add required tool capabilities and then put customizations for your specific environment on top.
+In most cases, a great starting point is to select a [development tool platform]({{< relref  "tool-platform" >}}) for your custom tool.
+A development tool platform, such as Eclipse Theia or VS Code, provides the common capabilities of a code editing tool, such as a file explorer, code editor or git integration, which you may also need in your custom tool.
+For your custom tool, you can then augment this tool platform with extensions too add additional tool capabilities and customize it to your specific requirements.
 CDT.cloud also provides an example tool named [CDT.cloud Blueprint]({{< relref  "blueprint" >}}), which may act as a template and a source of inspiration for your specific tool.
 
 For more details on those steps, please refer to the table of contents to the left.
