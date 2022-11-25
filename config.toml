@@ -1,6 +1,6 @@
 baseURL = "https://www.eclipse.org/cdt-cloud"
 DefaultContentLanguage = "en"
-title = "CDT.cloud Blueprint"
+title = "CDT Cloud Blueprint"
 theme = "syna"
 
 [outputs]
@@ -15,7 +15,7 @@ lastmod = ["lastmod", ":git", "date"]
 
 [params]
   name = "Eclipse Foundation"
-  description = "CDT.cloud - open-source components for building web-based C/C++ tools"
+  description = "CDT Cloud - open-source components for building web-based C/C++ tools"
 
   [params.style]
     #background = "secondary"

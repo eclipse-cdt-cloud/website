@@ -7,5 +7,5 @@ weight = 30
   url = "https://github.com/eclipse-cdt-cloud/cdt-cloud/blob/main/README.md#-meet-the-people-behind-cdtcloud"
 +++
 
-Connect with the people behind CDT.cloud in a virtual CDT.cloud community meeting.
-Dates are listed in the [CDT.cloud Readme on Github](https://github.com/eclipse-cdt-cloud/cdt-cloud/blob/main/README.md#-meet-the-people-behind-cdtcloud).
+Connect with the people behind CDT Cloud in a virtual CDT Cloud community meeting.
+Dates are listed in the [CDT Cloud Readme on Github](https://github.com/eclipse-cdt-cloud/cdt-cloud/blob/main/README.md#-meet-the-people-behind-cdtcloud).

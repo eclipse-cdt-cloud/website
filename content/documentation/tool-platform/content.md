@@ -23,7 +23,7 @@ Whether to use one or the other for a specific tool project depends on [various 
 In a nutshell, if you rather want to provide an extension to an existing code editor rather than creating an own product, VS Code may be a good choice for your project.
 If you want, however, to provide a white-labeled, tailored product for your customers or your own developers and you need to be able to take control over several aspects of your tool, you might be better served with Eclipse Theia.
 
-As the decision on VS Code vs Eclipse Theia depends on the respective tool project, many of the CDT.cloud components are actually shipped as VS Code extensions.
+As the decision on VS Code vs Eclipse Theia depends on the respective tool project, many of the CDT Cloud components are actually shipped as VS Code extensions.
 This way, they can be used either way, whether you use VS Code or Eclipse Theia.
 
 With custom C/C++ development tools, however, you often need to have full control over every aspect of your custom tool, which makes Theia is a popular choice in this context.
@@ -34,9 +34,9 @@ Thus, we point you to the right resources to get started with Theia below.
 To learn more about Theia, please visit the [Theia webpage](https://theia-ide.org) and browse through its [getting started guide](https://theia-ide.org/docs/getting_started).
 This will give you a solid overview about Theia's architecture and main concepts.
 
-For your custom C/C++ tool, we recommend to start off from the [CDT.cloud Blueprint]({{< relref  "blueprint" >}}) and use it as a template.
-CDT.cloud Blueprint is a Theia-based application which already contains a collection of extensions and configurations that likely apply to your C/C++ tool use case.
-Thus, all documentation on Theia applies to CDT.cloud Blueprint as well, but it already adds components and best practices that typically are useful for C/C++ tools.
+For your custom C/C++ tool, we recommend to start off from the [CDT Cloud Blueprint]({{< relref  "blueprint" >}}) and use it as a template.
+CDT Cloud Blueprint is a Theia-based application which already contains a collection of extensions and configurations that likely apply to your C/C++ tool use case.
+Thus, all documentation on Theia applies to CDT Cloud Blueprint as well, but it already adds components and best practices that typically are useful for C/C++ tools.
 
 To learn more about composing Theia-based applications in general, please refer to the [Theia documentation](https://theia-ide.org/docs/composing_applications).
 
@@ -56,4 +56,4 @@ For an overview, please read more about the [Theia extension mechanisms](https:/
 
 When you want to package your custom tool as a desktop application, you'll need to build your entire application for the operating systems you aim to support and likely want to integrate an update mechanism and add branding, such as application icons, etc.
 To learn more about dealing with those tasks, please consult the [Theia packaging documentation](https://theia-ide.org/docs/blueprint_documentation).
-You can also check the CDT.cloud Blueprint for a concrete implementation.
+You can also check the CDT Cloud Blueprint for a concrete implementation.
