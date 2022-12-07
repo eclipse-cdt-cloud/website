@@ -1,4 +1,4 @@
-baseURL = "https://cdt-cloud.io"
+baseURL = "https://www.eclipse.org/cdt-cloud"
 DefaultContentLanguage = "en"
 title = "CDT.cloud Blueprint"
 theme = "syna"
@@ -14,8 +14,8 @@ date = ["date", "lastmod"]
 lastmod = ["lastmod", ":git", "date"]
 
 [params]
-  name = "EclipseSource"
-  description = "CDT.cloud Blueprint - a template for a web-based C/C++ tool"
+  name = "Eclipse Foundation"
+  description = "CDT.cloud - open-source components for building web-based C/C++ tools"
 
   [params.style]
     #background = "secondary"
@@ -87,18 +87,38 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.footer]]
   url = "https://www.eclipse.org/tracecompass/"
-  name = "Trace Compass"
+  name = "Eclipse Trace Compass"
   weight = 20
 
+[[menu.footer]]
+  url = "https://projects.eclipse.org/projects/tools.cdt"
+  name = "Eclipse CDT"
+  weight = 30
+
 [[menu.copyright_footer]]
-  url = "https://eclipsesource.com/imprint"
-  name = "Imprint"
+  url = "https://projects.eclipse.org/projects/ecd.cdt-cloud"
+  name = "About"
   weight = 5
 
 [[menu.copyright_footer]]
-  url = "https://www.iubenda.com/privacy-policy/38167579"
+  url = "https://www.eclipse.org/legal/privacy.php"
   name = "Privacy Policy"
   weight = 10
+
+[[menu.copyright_footer]]
+  url = "https://www.eclipse.org/legal/termsofuse.php"
+  name = "Terms of Use"
+  weight = 20
+
+[[menu.copyright_footer]]
+  url = "https://www.eclipse.org/legal/copyright.php"
+  name = "Copyright"
+  weight = 30
+
+[[menu.copyright_footer]]
+  url = "https://www.eclipse.org/legal/"
+  name = "Legal"
+  weight = 40
 
 [[menu.footer_social]]
   weight = 20
