@@ -15,18 +15,17 @@ background = "dark"
 </div>
 
 <p style='text-align: center;'>
-CDT Cloud Blueprint is a template tool for building custom, web-based C/C++ tools. It is made of existing open source components and provides a typical C/C++ IDE based on the Eclipse Theia platform. This includes C/C++ language features, a language server, debugging support, memory debugging and a tracing view. It is meant to serve as a starting point for the implementation of domain-specific custom tools. For a simple showcase, CDT Cloud Blueprint can be easily downloaded and installed on all major operating system platforms.
+CDT Cloud Blueprint is a <em>template tool</em> for building custom, web-based C/C++ tools. It is based on existing open source components from inside and outside of CDT Cloud to provide a typical C/C++ IDE based on the Eclipse Theia platform. The feature set includes C/C++ language editing support, debugging, memory analysis and trace visualization. Besides demonstrating CDT Cloud capabilities, CDT Cloud Blueprint also serves as a starting point for the implementation of a custom C/C++ IDE.
 </p>
-<p style='text-align: center;'>CDT Cloud Blueprint is <b>not a production-ready product</b>. Therefore, it is also not meant to be a replacement for Eclipse CDT or any other IDE (yet).</p>
 
 <div style='background: lavender;color: black;padding: 1rem'>
+CDT Cloud Blueprint is <b>currently in beta</b>. While we are continuing to make improvements and add functionality, we welcome and value your feedback (see below).
 
-CDT Cloud Blueprint is in an early alpha state and undergoing active development
+* [Downloaded and install](https://download.eclipse.org/theia/cdt-cloud/latest/) CDT Cloud Blueprint by selecting the bundle for [Linux](https://download.eclipse.org/theia/cdt-cloud/latest/linux/), [MacOS](https://download.eclipse.org/theia/cdt-cloud/latest/macos/) or [Windows](https://download.eclipse.org/theia/cdt-cloud/latest/windows/).
+* You can also [try out the latest release of CDT Cloud Blueprint](https://try.theia-cloud.io/?appDef=cdt-cloud-demo) online.
+* CDT Cloud Blueprint is 100 % open source software available on [Github](https://github.com/eclipse-cdt-cloud/cdt-cloud-blueprint)
+* Help us improve CDT Cloud Blueprint by [suggesting features or reporting issues](https://github.com/eclipse-cdt-cloud/cdt-cloud/discussions).
 
-* Check out the [development plan](https://github.com/eclipse-cdt-cloud/cdt-cloud-blueprint/milestone/1) for Release 1.0
-* For the current up to date development version of CDT Cloud Blueprint including a Docker based development build, see the [Github repository](https://github.com/eclipse-cdt-cloud/cdt-cloud-blueprint)
-* Prereleases of CDT Cloud Blueprint are available to be [downloaded and installed](https://download.eclipse.org/theia/cdt-cloud/)
-
-[Follow us on twitter](https://twitter.com/CdtCloud") to be notified about recent updates to the project. Get in [contact with us](/contact) to learn more or join this initiative
+[Follow us on twitter](https://twitter.com/CdtCloud") to be notified about recent updates to the project. Get in [contact with us](/contact) to learn more or join this initiative.
 
 </div>
