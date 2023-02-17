@@ -6,8 +6,8 @@ weight = 100
 background = "dark" # can influence the text color
 particles = true
 
-title = "CDT.cloud Blueprint - a template for a web-based C/C++ tool"
-subtitle = "CDT.cloud Blueprint - a template for building web-based C/C++ tools"
+title = "CDT Cloud Blueprint - a template for a web-based C/C++ tool"
+subtitle = "CDT Cloud Blueprint - a template for building web-based C/C++ tools"
 
 [header]
 

@@ -1,5 +1,5 @@
 +++
-title = "CDT.cloud Blueprint"
+title = "CDT Cloud Blueprint"
 weight = 10
 
 [asset]
@@ -7,4 +7,4 @@ weight = 10
   url = "#blueprint"
 +++
 
-CDT.cloud Blueprint is a template tool for building custom, web-based C/C++ tools
+CDT Cloud Blueprint is a template tool for building custom, web-based C/C++ tools

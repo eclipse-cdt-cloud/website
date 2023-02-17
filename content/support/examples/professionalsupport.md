@@ -9,7 +9,7 @@ weight = 20
 <a href="https://eclipsesource.com/technology/c-c-tooling/">
 <img src="../images/eslogo.png" alt="EclipseSource Logo" width="200" style="display: block; margin: auto;" /></a>
 
-**Adaptations to CDT.cloud Blueprint**\
+**Adaptations to CDT Cloud Blueprint**\
 **Implementation of custom C/C++ tools**\
 **In-depth answers**\
 **Private communication (NDA)**

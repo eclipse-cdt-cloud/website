@@ -1,4 +1,4 @@
 +++
-title = "CDT.cloud Blueprint"
-description = "CDT.cloud Blueprint - a template for a web-based C/C++ tool"
+title = "CDT Cloud Blueprint"
+description = "CDT Cloud Blueprint - a template for a web-based C/C++ tool"
 +++
