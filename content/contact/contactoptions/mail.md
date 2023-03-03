@@ -7,4 +7,4 @@ weight = 20
   url = ""
 +++
 
-If you are interested in support or have any general questions, please [contact us by email](mailto:cdt.cloud@eclipsesource.com) or use the [developer mailing list](https://accounts.eclipse.org/mailing-list/cdt-cloud-dev)!
+If you are interested in support or have any general questions, please [contact us by email](mailto:cdt-cloud@eclipsesource.com) or use the [developer mailing list](https://accounts.eclipse.org/mailing-list/cdt-cloud-dev)!
