@@ -1,4 +1,4 @@
-baseURL = "https://www.eclipse.org/cdt-cloud"
+baseURL = "https://www.eclipse.dev/cdt-cloud"
 DefaultContentLanguage = "en"
 title = "CDT Cloud Blueprint"
 theme = "syna"
@@ -86,7 +86,7 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 10
 
 [[menu.footer]]
-  url = "https://www.eclipse.org/tracecompass/"
+  url = "https://www.eclipse.dev/tracecompass/"
   name = "Eclipse Trace Compass"
   weight = 20
 
