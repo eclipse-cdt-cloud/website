@@ -1,6 +1,5 @@
 +++
 fragment = "content"
-title = "CDT Cloud Blueprint"
 weight = 160    
 background = "dark"
 
@@ -9,8 +8,10 @@ background = "dark"
 #title_align = "center" # Default is center, can be left, right or center
 +++
 
-<div style='margin: 2rem;'>
-<img src="images/CDTCloudBlueprintLogo.png" alt="CDT Cloud Blueprint Logo" style="display: block; margin: auto; width: 350px;" />
+<div style='margin-bottom: 2rem;'>
+<h2>
+<img src="images/CDTCloudBlueprintLogo.png" alt="CDT Cloud Blueprint" style="display: block; margin: auto; width: 350px;" />
+</h2>
 </div>
 
 <p style='text-align: center;'>
