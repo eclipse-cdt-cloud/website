@@ -10,8 +10,11 @@ title = "External Articles & Videos"
 
 Below is a list of articles on CDT Cloud:
 
-* <a target="_blank" href="https://eclipsesource.com/blogs/2021/11/26/cdt-cloud-c-c-tooling-in-the-web-cloud/">CDT Cloud? C/C++ tooling in the web/cloud</a>
 * <a target="_blank" href="https://eclipsesource.com/blogs/2022/01/10/cdt-cloud-an-overview-about-c-c-tooling-in-the-web/">CDT Cloud – An overview about C/C++ tooling in the web</a>
+* <a target="_blank" href="https://eclipsesource.com/blogs/2023/05/16/cdt-cloud-blueprint-getting-started/">CDT Cloud Blueprint: Getting started</a>
+* <a target="_blank" href="https://eclipsesource.com/blogs/2023/05/24/cdt-cloud-blueprint-dynamic-toolbar/">CDT Cloud Blueprint: Dynamic Toolbar</a>
+* <a target="_blank" href="https://eclipsesource.com/blogs/2023/06/19/cdt-cloud-blueprint-coding/">CDT Cloud Blueprint: Coding</a>
+* <a target="_blank" href="https://eclipsesource.com/blogs/2021/11/26/cdt-cloud-c-c-tooling-in-the-web-cloud/">CDT Cloud? C/C++ tooling in the web/cloud</a>
 
 Also, we provide a list of talk recordings and videos on CDT Cloud:
 
