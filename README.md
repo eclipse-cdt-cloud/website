@@ -4,6 +4,8 @@ We use the [Syna](https://github.com/okkur/syna) thema for [Hugo](https://gohugo
 
 Please check the [Syna documentation](https://about.okkur.org/syna/docs/). The Syna theme heavily works with fragments, therefore the development differs a bit from a "normal" Hugo website.
 
+Every commit to the `main` branch will automatically published to <eclipse.dev/cdt-cloud>.
+
 ## Quick start
 
 ### Open in VSCode dev container
