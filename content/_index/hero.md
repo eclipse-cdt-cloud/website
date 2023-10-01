@@ -17,7 +17,7 @@ subtitle = "CDT Cloud Blueprint - a template for building web-based C/C++ tools"
   width = "600px" # optional - will default to image width
 
 [[buttons]]
-  text = "Try Now"
+  text = "Try Online"
   url = "https://try.theia-cloud.io/?appDef=cdt-cloud-demo"
   color = "primary"
 
