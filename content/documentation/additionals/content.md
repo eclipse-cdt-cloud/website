@@ -18,6 +18,8 @@ Below is a list of articles on CDT Cloud:
 
 Also, we provide a list of talk recordings and videos on CDT Cloud:
 
+* EclipseCon 2022: <a target="_blank" href="https://www.youtube.com/watch?v=7h2IoWZyzVo">Building Specialized C/C++ Tools: Eclipse Theia and CDT Cloud in Action
+</a>
 * EclipseCon 2022: <a target="_blank" href="https://www.youtube.com/watch?v=zDDAu2LDxSs">Introducing Eclipse CDT Cloud - C/C++ tooling in the web</a>
 * EclipseCon 2022: <a target="_blank" href="https://www.youtube.com/watch?v=sNdsuxE5Q1Y">What's cooking in the TraceCompass cloud project</a>
 * Cloud IDE Days 2022: <a target="_blank" href="https://www.youtube.com/watch?v=zRZrv4c6lhk">Building Custom C/C++ Tools in the Web</a>
