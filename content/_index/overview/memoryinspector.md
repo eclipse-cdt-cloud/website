@@ -3,7 +3,7 @@ title = "Memory Inspector"
 weight = 20
 
 [asset]
-  icon = "fas fa-magnifying-glass"
+  icon = "fas magnifying-glass"
   url = "https://github.com/eclipse-cdt-cloud/vscode-memory-inspector"
 +++
 
