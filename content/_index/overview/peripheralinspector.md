@@ -3,7 +3,7 @@ title = "Peripheral Inspector"
 weight = 20
 
 [asset]
-  icon = "fas magnifying-glass"
+  icon = "fas fa-microchip"
   url = "https://github.com/eclipse-cdt-cloud/vscode-peripheral-inspector"
 +++
 
